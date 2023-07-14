@@ -1,0 +1,34 @@
+{
+    "produits":[
+        {
+            "id":1,
+            "nom":"computer",
+            "price":4200,
+            "chechek":false
+        },
+        {
+            "id":2,
+            "nom":"phone",
+            "price":4200,
+            "chechek":false
+        },
+        {
+            "id":3,
+            "nom":"software",
+            "price":4200,
+            "chechek":false
+        },
+        {
+            "id":4,
+            "nom":"tablete",
+            "price":4200,
+            "chechek":false
+        },
+        {
+
+            "nom":"keybord",
+            "price":4200,
+            "chechek":false
+        }
+    ]
+}
