@@ -1,34 +1,73 @@
 {
-    "produits":[
-        {
-            "id":1,
-            "nom":"computer",
-            "price":4200,
-            "chechek":false
-        },
-        {
-            "id":2,
-            "nom":"phone",
-            "price":4200,
-            "chechek":false
-        },
-        {
-            "id":3,
-            "nom":"software",
-            "price":4200,
-            "chechek":false
-        },
-        {
-            "id":4,
-            "nom":"tablete",
-            "price":4200,
-            "chechek":false
-        },
-        {
-
-            "nom":"keybord",
-            "price":4200,
-            "chechek":false
-        }
-    ]
+  "produits": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 4200,
+      "chechek": false,
+      "checked": false
+    },
+    {
+      "checked": false,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "software",
+      "price": 4200,
+      "chechek": false,
+      "checked": false
+    },
+    {
+      "id": 4,
+      "name": "tablette",
+      "price": 4200,
+      "chechek": false,
+      "checked": false
+    },
+    {
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "article",
+      "price": "1234",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "produit6",
+      "price": "4512",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "name": "ddfgd",
+      "price": 0,
+      "checked": false,
+      "id": 10
+    },
+    {
+      "name": "ddfgdhjntr",
+      "price": 0,
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "article 2",
+      "price": "12000",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": 0,
+      "checked": "on",
+      "id": 14
+    }
+  ]
 }
